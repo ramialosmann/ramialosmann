@@ -32,13 +32,13 @@
   <!-- Backend Core -->
   <h3>🚀 Backend Core</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,apollo,graphql" /> 
+    <img src="https://skillicons.dev/icons?i=nodejs,express,apollo,graphql,typescript,prisma" /> 
   </p>
   
   <!-- Frontend & UI -->
   <h3>⚡ Frontend & UI</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react" />
   </p>
   
   <!-- Database & Cloud -->
