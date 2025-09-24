@@ -1,4 +1,4 @@
-# 🚀 Rami Al Osman
+# 🪐 Rami Al Osman
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=FFF&fontAlignY=40&animation=fadeIn" width="100%"/>
